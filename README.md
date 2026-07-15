@@ -116,9 +116,9 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 📧 Email: **[pallavipallavikrishna0@gmail.com](mailto:pallavipallavikrishna0@gmail.com)**
 * 💼 LinkedIn: **https://linkedin.com/in/your-linkedin**
-* 🐙 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+* 🐙 GitHub: **https://github.com/Pallavi67-ui**
 
 ---
 
